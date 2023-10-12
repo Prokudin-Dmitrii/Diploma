@@ -2,7 +2,7 @@
 
 | Название | Авторы   | Ссылка   | Основные идеи   |
 |----------|----------|----------|----------|
-|An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling| Shaojie Bai  J. Zico Kolter  Vladlen Koltun | - | TCN работает лучше рекуррентных моделей. |
+|An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling      | Shaojie Bai  J. Zico Kolter  Vladlen Koltun | - | TCN работает лучше рекуррентных моделей. |
 |Are Transformers Effective for Time Series Forecasting? | Ailing Zeng, Muxi Chen, Lei Zhang, Qiang Xu| - | Трансформеры - круто, но для временных рядов есть более простые модели, которые оказывают себя лучше|
 |Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting | Jianmin Wang Mingsheng Long Haixu Wu, Jiehui Xu | - | Вот вам специальный трансформер считать исключительно временные ряды |
 |Timesnet: Temporal 2d-variation modeling for general time series analysis|Yong Liu Hang Zhou Jianmin Wang Mingsheng Long Haixu Wu, Tengge Hu | -| Вот вам не трансформер считать исключительно временные ряды|
