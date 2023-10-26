@@ -10,3 +10,4 @@
 |Univariate vs multivariate time series forecasting with transformers | Ke Chen William Michael John Murphy| - | Если бы я помнил, о чём эта статья. Но она полезная, там было про применение трансформеров для предсказания временных рядов|
 |Anomaly detection for water treatment system based on neural network with automatic architecture optimization|Andrey Lavrentyev Dmitry Shalyga, Pavel Filonov|-|Искать аномалии во временных рядах с помощью нейронных сетей - круто!|
 |Deep Learning for Time Series Anomaly Detection: A Survey|ZAHRA ZAMANZADEH DARBAN GEOFFREY I. WEBB SHIRUI PAN CHARU C. AGGARWAL MAHSA SALEHI | https://arxiv.org/pdf/2211.05244.pdf | Ну исследовать временные ряды круто! |
+|A Time Series is Worth 64 Words: Long-term Forecasting with Transformers| Yuqi Nie, Nam H. Nguyen, Phanwadee Sinthong, Jayant Kalagnanam|https://arxiv.org/pdf/2211.14730.pdf|Ну тоже классно трансформеры там автоботы объединяемся!1!1!!1!!!|
